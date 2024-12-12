@@ -1,0 +1,43 @@
+DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" >
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Layout</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        
+        <header>
+            <div class="head">
+                <img id="logo" src="C:\Users\benji\OneDrive\Desktop\catlogo.png" alt="catlogo">
+                <div class="links">
+                    <a href="Working">How it works</a>
+                    <a href="Payment">Payment</a>
+                    <a href="Help">Help</a>
+                    <a href="Blog">Blog</a>
+                </div>
+                <div class="logins">
+                    <button id="b1">Signup</button>
+                    <button id="b2">Login</button>
+                </div>
+            </div>
+        </header>
+
+        <div class="content">
+            <div class="main">
+                <h1>Effortless<br>Investing</h1>
+                <h3>Empowering your Financial Horizon</h3>
+                <br>
+                <p id="mainpara">Discover a new era of seamless investing - where innovation meets your financial aspirations. 
+                    Join us on a journey where simplicity meets sophistication, ensuring your path to prosperity is both accesible and rewarding.</p>
+                    <br>
+                <button class="Start" value="start">Get Started</button>
+            </div>
+            <div class="imagg">
+                <img id="sidepic" alt="sidepic" src="C:\Users\benji\OneDrive\Desktop\Effortless Investing.png">
+            </div>
+        </div>
+
+    </body>
+</html>
